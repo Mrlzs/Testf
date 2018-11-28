@@ -80,7 +80,7 @@ class  InternetWorm{
         }
 
     }
-    /*
+    
     public void getImgSrc_Test()throws  Exception{
         BufferedReader br = new BufferedReader(new FileReader("C:/Picture/index.html"));
         StringBuilder sb = new StringBuilder("");
@@ -97,7 +97,7 @@ class  InternetWorm{
         }
 
     }
-    */
+    
 
     public void solve()throws  Exception{
         //this.Dow(this.getImgSrc(this.getHtmlFile()));
