@@ -9,7 +9,7 @@ const int M = 1e6 + 11;
 const int MOD = 1e9 + 7;
 
 int main(int argc, char **args){
-    int n; scanf("%d" ,&n);
-    cout << "hello !! " << "\n";
+    int n; cin >> n;
+    cout << n << "\n";
 return 0;
 }
