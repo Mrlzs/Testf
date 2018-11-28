@@ -11,6 +11,7 @@ const int MOD = 1e9 + 7;
 int main(int argc, char **args){
     int n; scanf("%d" ,&n);
     printf("%d \n", "fsdfjds");
+    cout << "dfjasfkdsjfjkd " << "\n";
     cout << "hello !! " << "\n";
 return 0;
 }

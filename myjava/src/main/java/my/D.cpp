@@ -9,6 +9,6 @@ const int M = 1e6 + 11;
 const int MOD = 1e9 + 7;
 
 int main(int argc, char **args){
-
+    cout << "fkjasjfdsjf"; 
 return 0;
 }
